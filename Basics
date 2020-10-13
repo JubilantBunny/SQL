@@ -1,0 +1,6 @@
+SELECT [column] FROM [table];
+EXAMPLE: SELECT id FROM users;
+
+SELECT [column], [column], [column] FROM [table];
+
+SELECT [column] AS [new name] FROM [table];
